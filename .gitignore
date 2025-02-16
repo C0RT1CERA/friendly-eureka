@@ -1,0 +1,5 @@
+myapp/node_modules/
+myOauth/venv/
+myapp/.next/
+myapp/out/
+myapp/build/
